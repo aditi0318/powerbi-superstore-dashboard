@@ -1,15 +1,7 @@
-# powerbi-superstore-dashboard
-Interactive Power BI dashboard for Superstore dataset featuring sales, profit, category analysis, forecasting, and geographic visualizations.
 # 📊 Power BI Superstore Sales Dashboard  
 
 This repository contains a Power BI dashboard analyzing **Superstore Sales Data**.  
 It highlights sales performance, profit trends, and category-wise insights to support business decision-making.  
-
----
-
-## 📂 Files  
-- `Superstore_Sales_Dashboard.pbix` → Power BI file  
-- `Dashboard_Screenshot.png` → Preview of the dashboard  
 
 ---
 
